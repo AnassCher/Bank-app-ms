@@ -1,0 +1,5 @@
+cloud:
+  gateway:
+    discovery:
+      locator:
+        enabled: true
